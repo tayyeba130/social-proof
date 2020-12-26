@@ -3,8 +3,8 @@ body {
 	font-size: var(--fs-400);
 	padding: 5rem 0;
 	text-align: center;
-	background-image: url(../../images/bg-pattern-top-desktop.svg),
-		url(../../images/bg-pattern-bottom-desktop.svg);
+	background-image: url(../images/bg-pattern-top-desktop.svg),
+		url(../images/bg-pattern-bottom-desktop.svg);
 	background-repeat: no-repeat;
 	background-position: top left, bottom right;
 	background-size: unquote('max(50%, 360px), max(70%, 700px)');
