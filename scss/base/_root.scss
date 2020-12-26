@@ -1,0 +1,19 @@
+:root {
+	--clr-primary-700: hsl(300, 43%, 22%); // Very Dark Magenta
+	--clr-primary-300: hsl(333, 80%, 67%); // Soft Pink
+	--clr-neutral-100: hsl(303, 10%, 53%); // Dark Grayish Magenta
+	--clr-neutral-200: hsl(300, 24%, 96%); // Light Grayish Magenta
+	--clr-neutral-300: hsl(0, 0%, 100%); // White
+
+	--ff-primary: 'Spartan', sans-serif;
+
+	--fs-400: 0.8125rem;
+	--fs-500: 0.9625rem;
+	--fs-900: 2rem;
+
+	--br: 0.6rem;
+
+	@media (min-width: 50em) {
+		--fs-900: 3rem;
+	}
+}
